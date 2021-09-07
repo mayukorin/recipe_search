@@ -44,115 +44,115 @@
     "Salmon": [
         {
             "japanese_name": "サーモン",
-            "id": 1
+            "id": "11-70"
         }
     ],
     "Sardine": [
         {
             "japanese_name": "イワシ",
-            "id": 1
+            "id": "11-71"
         }
     ],
     "mackerel": [
         {
             "japanese_name": "サバ",
-            "id": 1
+            "id": "11-72"
         }
     ],
     "Horse mackerel": [
         {
             "japanese_name": "アジ",
-            "id": 1
+            "id": "11-73"
         }
     ],
     "Yellowtail": [
         {
             "japanese_name": "ぶり",
-            "id": 1
+            "id": "11-74"
         }
     ],
     "Pacific saury": [
         {
             "japanese_name": "サンマ",
-            "id": 1
+            "id": "11-75"
         }
     ],
     "Red snapper": [
         {
             "japanese_name": "鯛",
-            "id": 1
+            "id": "11-76"
         }
     ],
     "Tuna": [
         {
             "japanese_name": "マグロ",
-            "id": 1
+            "id": "11-77"
         }
     ],
     "Shrimp": [
         {
             "japanese_name": "エビ",
-            "id": 1
+            "id": "11-79"
         }
     ],
     "Squid": [
         {
             "japanese_name": "イカ",
-            "id": 1
+            "id": "11-80"
         }
     ],
     "Octopus": [
         {
             "japanese_name": "たこ",
-            "id": 1
+            "id": "11-81"
         }
     ],
     "Shellfish": [
         {
             "japanese_name": "貝類",
-            "id": 1
+            "id": "11-82"
         }
     ],
     "Crab": [
         {
             "japanese_name": "蟹",
-            "id": 1
+            "id": "11-83"
         }
     ],
     "Cod": [
         {
             "japanese_name": "たら",
-            "id": 1
+            "id": "11-443"
         }
     ],
     "Oysters": [
         {
             "japanese_name": "かき",
-            "id": 1
+            "id": "11-444"
         }
     ],
     "Fish eggs": [
         {
             "japanese_name": "魚卵",
-            "id": 1
+            "id": "11-445"
         }
     ],
     "Carrot": [
         {
             "japanese_name": "にんじん",
-            "id": 1
+            "id": "12-95"
         }
     ],
     "Broccoli": [
         {
             "japanese_name": "ブロッコリー",
-            "id": 1
+            "id": "12-458"
         }
     ],
     "Tomato": [
         {
             "japanese_name": "トマト",
-            "id": 1
+            "id": "12-454"
         }
     ]
 

@@ -79,6 +79,7 @@ class ResultView(View):
 				# データを取得する
 				responses = requests.get(REQUEST_URL, search_param).json()
 				if 'error' in responses:
+					print(responses)
 					break
 				recipes.append(responses["result"])
 				j = 0

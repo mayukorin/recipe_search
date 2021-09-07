@@ -55,7 +55,7 @@ function getImageInfo(evt) {
   var file = evt.target.files;
   var reader = new FileReader();
   var dataUrl = "";
-  console.log("why");
+
   reader.readAsDataURL(file[0]);
   reader.onload = function() {
     dataUrl = reader.result;
@@ -107,14 +107,6 @@ function showResult(result) {
           </div>`;
           $('#checkboxes').append($(check_form));
           flag = 1;
-          /*
-          var check_form2 = `
-          <div class='custom-control custom-checkbox food_check'>
-          <input type="checkbox" class='custom-control-input' name='categories[]' id='custom-check-0' value='10-276'>
-          <label class='custom-control-label' for='custom-check-0'>豚肉</label>
-          </div>`;
-          $('#checkboxes').append($(check_form2));
-          */
       }
     })
 
